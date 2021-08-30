@@ -9,10 +9,10 @@ namespace Lab7
         static void Main(string[] args)
         {
 
-           //IsValidName();
+           IsValidName();
            IsValidEmail();
-           //IsValidPhone();
-          // IsValidDate();
+           IsValidPhone();
+          IsValidDate();
 
 
         }
